@@ -32,4 +32,4 @@ export const App = () => (
   </div>
 );
 
-export default Person;
+export default App;
